@@ -1,3 +1,4 @@
+[![Your Banner](https://cviog.uga.edu/_resources/images/banners/services-higher-ed-banner.jpg)]([https://your-profile-url](https://github.com/SwapnilK-21))
 
 <h1 align="center">Hi there 👋, I'm Swapnil Kudale</h1>
 <h3 align="center">I'm passionate Data Scientist</h3>
